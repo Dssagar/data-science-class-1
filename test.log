@@ -1,0 +1,6 @@
+INFO:root:this is my line of execution
+ERROR:root:this is my error
+CRITICAL:root:this is my critical
+WARNING:root:this is my warning
+ERROR:Comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: b8ce8444-707b-449f-be8b-6daad833bfbb
